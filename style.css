@@ -1,0 +1,17 @@
+body{
+    margin-top: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+button{
+    margin: 50px;
+    padding: 5px 10px;
+    font-family: cursive;
+}
+button:hover{
+    color: teal;
+    background-color: black;
+}
+button:visited{
+    background-color: red;
+}
